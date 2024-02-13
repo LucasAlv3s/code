@@ -1,3 +1,3 @@
 // JavaScript Externo
 // Sintaxe em JavaScript
-alert("Hello, World!");
+alert("Um alerta rodando de uma página externa");
